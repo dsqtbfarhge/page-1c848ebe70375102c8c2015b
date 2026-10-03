@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f5d87958100a65cf0a571d1f",
+  "owner": "dsqtbfarhge",
+  "repo": "page-1c848ebe70375102c8c2015b",
+  "title": "一起浪",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1c848ebe70375102c8c2015b",
+      "a": "一起浪",
+      "b": "",
+      "entity": "一起浪",
+      "brand": "一起浪",
+      "separator": "",
+      "path": "index.html",
+      "hash": "903539f88e29f70e802f88ded0ed516a8846888bcd1ed04b1a38edbd320334ba",
+      "content": {
+        "keyword1": "一起浪",
+        "keyword2": "",
+        "primary_entity": "一起浪",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "一起浪是专注高速稳定的VPN梯子与机场订阅服务官网，提供多端客户端下载指南、流媒体解锁与游戏加速节点，支持基础版至团队版套餐，立即访问获取官方订阅与使用说明。",
+          "AI_DESCRIPTION": "一起浪是专注高速稳定的VPN梯子与机场订阅服务官网，提供多端客户端下载指南、流媒体解锁与游戏加速节点，支持基础版至团队版套餐，立即访问获取官方订阅与使用说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#071422;color:#d6eef8;line-height:1.75;font-size:16px}a{color:#22d3ee;text-decoration:none}header{background:#0a1929;padding:0.85rem 1rem}nav{display:flex;flex-wrap:wrap;justify-content:center;gap:0.75rem 1.1rem}nav a{color:#67e8f9;font-size:0.95rem}main{display:block}.hero{padding:4.5rem 1.25rem 5.5rem;text-align:center;background:linear-gradient(180deg,#0c243c 0%,#071422 100%)}.hero h1{font-size:2.7rem;color:#22d3ee;font-weight:700;letter-spacing:0.06em;margin-bottom:1.1rem;itemprop:name}.hero p{max-width:36rem;margin:0 auto;color:#b8e6f5;font-size:1.08rem}.wrap{max-width:920px;margin:0 auto;padding:0 1.15rem}section{padding:1.6rem 0 2.2rem}h2{font-size:1.55rem;color:#67e8f9;margin:0 0 1rem;padding-bottom:0.45rem;border-bottom:1px solid #155e75}h3{font-size:1.15rem;color:#a5f3fc;margin:1.15rem 0 0.5rem}p{margin:0.65rem 0}ul{margin:0.55rem 0 0.85rem 1.2rem}.plans{display:flex;flex-wrap:wrap;gap:1rem;justify-content:center}.plan{flex:1 1 250px;background:#0f2744;border:1px solid #155e75;border-radius:8px;padding:1.25rem 1.2rem}.plan.featured{border-color:#22d3ee}.price{font-size:1.35rem;color:#22d3ee;margin:0.35rem 0}.annual{font-size:0.92rem;color:#9fd8ea}.clients h3{margin-top:1.3rem}.note{background:#0f2744;border-left:3px solid #22d3ee;padding:0.8rem 1rem;margin:1rem 0}.faq details{background:#0f2744;margin:0.7rem 0;padding:0.75rem 1rem;border-radius:6px;border:1px solid #155e75}.faq summary{color:#a5f3fc;font-weight:600}.ad{background:#0c2a40;border:1px dashed #155e75;padding:1rem;margin:1.2rem 0;text-align:center;color:#c5ebf7}footer{background:#05101c;padding:2rem 1.1rem 2.4rem;font-size:0.9rem;text-align:center;color:#9ec8d8}footer h2{border:none;font-size:1.1rem;margin-bottom:0.6rem}footer ul{list-style:none;margin:0.4rem 0 1rem;padding:0}footer li{display:inline;margin:0 0.4rem}footer .links a{margin:0 0.35rem}@media(max-width:640px){.hero{padding:3.2rem 1rem 4rem}.hero h1{font-size:2.05rem}.plan{flex:1 1 100%}}</style><header><nav><a href=\"#home\">首页</a><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#clients\">客户端</a><a href=\"#guide\">说明</a><a href=\"#faq\">问答</a><a href=\"#download\">下载</a></nav></header><main><section class=\"hero\" id=\"home\"><h1>一起浪官方网站</h1><p>一起浪机场提供高速 VPN 梯子、网络加速与机场订阅。认准官网获取套餐、客户端选择指南与稳定节点说明。</p></section><div class=\"wrap\"><section id=\"intro\"><h2>品牌简介</h2><p>一起浪是面向个人与团队的网络加速服务，定位为可订阅更新的机场与多协议 VPN 梯子。服务强调线路可用性、晚高峰稳定性以及客户端兼容，而不是捆绑安装包。用户完成套餐开通后即可获得专属订阅，在 Clash、Shadowrocket、Stash、v2rayN 等主流客户端中导入使用。</p><p>一起浪官方网站集中展示套餐对照、使用场景、操作步骤与客户端选择。节点覆盖亚洲、北美与欧洲常用地区，旗舰与团队线路包含 IPLC/IEPL 专线资源，适合流媒体解锁与对延迟敏感的游戏加速。我们不在页面中放置可执行下载包，客户端请从各软件官方渠道获取，以降低来源不明安装包的风险。</p><p>若你需要同时照顾手机、电脑与平板，可按设备数量选择基础版、旗舰版或团队版。年付价格低于月付累计，适合长期跨境办公与固定观影需求。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为一起浪当前公开套餐。流量按自然月统计，设备数为同时在线上限。旗舰版适合大多数需要原生流媒体与游戏加速的用户。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>旗舰版与团队版面向 Netflix、Disney+、YouTube 等常见平台做原生解锁策略，减少“检测到代理”提示。适合长期追剧、课程回放与海外内容归档。</p><h3>游戏与实时对战</h3><p>对延迟敏感的用户可优先选择带 IPLC 标注的节点。一起浪在晚高峰对热门游戏线路做分流，避免与大流量下载争抢带宽。基础版可用于轻度加速，竞技场景建议旗舰版。</p><h3>远程办公与学术检索</h3><p>会议软件、代码仓库、论文数据库与设计素材站点可通过规则分流：国内直连、跨境走代理。团队版支持定制路由，方便工作室统一出口策略。</p></section><section id=\"clients\"><h2>客户端选择</h2><p>一起浪订阅兼容常见代理客户端。请按系统选择维护活跃的软件，并从该软件自己的发布页安装。导入本站订阅后即可更新节点，无需反复手动填写服务器。</p><h3>Windows</h3><p>推荐 Clash Verge、Clash Meta 核心或 v2rayN。安装后选择订阅管理，粘贴一起浪提供的链接，开启系统代理或 TUN 模式。若只需浏览器加速，可仅对规则内域名生效。</p><h3>macOS</h3><p>常用 ClashX Meta 与 Surge。Surge 适合需要精细分流的用户；ClashX Meta 更接近跨平台配置。导入后检查系统代理状态，避免与公司 VPN 同时抢默认路由。</p><h3>iOS 与 iPadOS</h3><p>Shadowrocket、Stash、Quantumult X 为常见选择。部分应用需特定地区商店。安装完成后添加订阅 URL，打开 UDP 与 IPv6 开关需按节点说明，不必全部启用。</p><h3>Android</h3><p>Clash Meta for Android、v2rayNG、Surfboard 可覆盖多数机型。建议关闭省电对后台的限制，否则切换网络后需重新连接。平板与手机共用同一订阅时注意设备数量上限。</p><h3>选择原则</h3><p>同一套订阅可在多端使用，但不要超过套餐设备数。一起浪官网不提供第三方修改版客户端，也不要求关闭杀毒软件。若某客户端停止维护，可平滑迁移到同协议软件，订阅本身无需更换。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>开通与获取订阅</h3><p>在官网选择套餐并完成支付后，账户中心会生成订阅地址。请妥善保存，不要公开分享。年付用户可一次复制长期链接，客户端内打开自动更新即可跟随节点调整。</p><h3>导入与连接</h3><p>打开已安装的客户端，找到“订阅 / Profile / 配置”入口，粘贴链接并更新。选择延迟较低的节点测试连通，再启用规则模式。流媒体请走解锁节点，下载大文件可改用高带宽普通节点。</p><h3>分流与排障</h3><p>国内站点保持直连可降低延迟。若某一地区全部超时，先更新订阅再更换协议（如 Trojan 与 Hysteria 互备）。工单请附客户端名称、系统版本与错误时间，旗舰与团队用户享有优先处理。</p><div class=\"note\">安全提示：一起浪官方下载指引仅指向各客户端原厂渠道。不要在来路不明的网盘获取“一键包”。订阅泄露后应在账户中重置链接。</div></section><section id=\"nodes\"><h2>节点与性能说明</h2><p>一起浪节点池包含香港、日本、新加坡、美国与欧洲常用入口。普通线路满足网页与即时通讯；专线侧重游戏与实时音视频。晚高峰采用负载均衡，避免单节点过载。具体可用数量随套餐变化，团队版可申请独立带宽段。</p><p>协议方面支持常见的 VMess、Trojan 与较新的加速协议组合，便于在不同网络环境下切换。我们持续下线质量下降的入口，订阅更新后客户端会自动同步，无需逐条修改。</p></section><section class=\"ad\" id=\"promo\">推广信息：需要原生流媒体与 IPLC 游戏加速时，优先考虑一起浪旗舰版；多人共用请直接对比团队版设备与流量配额。</section><section id=\"faq\" class=\"faq\"><h2>常见问题</h2><details><summary>一起浪是什么？和普通单一 VPN 有何不同？</summary><p>一起浪是可订阅的机场型网络加速服务。相比固定几个服务器的传统 VPN，用户能按延迟与用途切换节点，并由订阅自动同步线路变更，更适合同时照顾观影、游戏与办公。</p></details><details><summary>一起浪官网是否直接提供客户端安装包？</summary><p>不提供捆绑安装包。请根据“客户端选择”一节，从 Clash、Shadowrocket、Stash、v2rayN 等软件的官方发布页下载，再导入一起浪订阅。这样可避免篡改版客户端。</p></details><details><summary>各套餐同时在线设备如何计算？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台，按同时建立的代理会话统计。电脑与手机同时连接会占用多个名额。超出后可能被限制新连接，升级套餐或断开闲置设备即可。</p></details><details><summary>如何导入机场订阅并保持节点最新？</summary><p>复制账户中的订阅 URL，在客户端订阅栏粘贴后点击更新。建议打开自动更新。更换套餐或重置链接后，旧地址会失效，需重新导入一次。</p></details><details><summary>流量包含哪些消耗？用完如何处理？</summary><p>代理产生的出站流量计入套餐额度，直连国内站点一般不计入。用尽后连接会受限，可升级到更高档位或等待下个计费周期重置。年付用户如需短期补充，以账户中心公示的加量为准。</p></details><details><summary>哪些套餐能较好解锁国际流媒体？</summary><p>基础版提供基础解锁，满足部分平台。完整原生解锁与更稳定的观看体验集中在旗舰版与团队版全节点策略。若某标题仍提示地区限制，切换对应地区解锁节点后再试。</p></details></section><section id=\"download\"><h2>官网下载与订阅入口</h2><p>本页即为一起浪官方网站。套餐说明、客户端选择与操作步骤均以本站为准。完成购买后在账户查看订阅，客户端本体请前往各软件官方站点获取最新版。不要将订阅二维码发送到公开群组。</p><p>若你从搜索引擎进入，请核对此处品牌名称为“一起浪”，并收藏本页锚点导航，避免误入仿冒站点索要额外验证码或木马安装包。</p><p><a href=\"#plans\">查看套餐</a> · <a href=\"#clients\">客户端选择</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#faq\">常见问题</a></p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><h2>网站地图</h2><ul><li><a href=\"#home\">首页</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#clients\">客户端选择</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#download\">官网下载</a></li></ul><p class=\"links\">友情链接：<a href=\"#clients\">客户端指南</a> <a href=\"#guide\">导入说明</a> <a href=\"#nodes\">节点说明</a> <a href=\"#plans\">套餐对照</a></p><p>一起浪官方网站 · 机场订阅与 VPN 梯子网络加速服务</p><p>canonical: https://www.yiqilang.com/</p></footer>",
+          "hash": "2613750cd2fb46307fe05bca64b63a596934258bdacc14a09a471e09661cc014",
+          "seo": {
+            "title": "一起浪官网 | VPN梯子网络加速器客户端下载与机场订阅",
+            "keywords": "一起浪,一起浪VPN,一起浪机场,VPN梯子,网络加速,加速器,客户端下载,机场订阅,Clash,Shadowrocket,官方网站,官方下载",
+            "description": "一起浪是专注高速稳定的VPN梯子与机场订阅服务官网，提供多端客户端下载指南、流媒体解锁与游戏加速节点，支持基础版至团队版套餐，立即访问获取官方订阅与使用说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "blqpk.cn",
+    "host": "p-c7cc4f4938.blqpk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "blqpk.cn",
+      "url": "https://blqpk.cn/",
+      "label": "樱花加速(SakuraQuicken)",
+      "apex": "blqpk.cn",
+      "kind": null,
+      "identity": "kkhyjvctj/page-6f2111c7adc0c7e5ee4623cc"
+    },
+    {
+      "host": "jrzdb.cn",
+      "url": "https://jrzdb.cn/",
+      "label": "一起浪",
+      "apex": "jrzdb.cn",
+      "kind": null,
+      "identity": "mvdccejnx/page-0e42d2b8ff5564c6a70295aa"
+    },
+    {
+      "host": "wmcmpga.cn",
+      "url": "https://wmcmpga.cn/",
+      "label": "一起浪",
+      "apex": "wmcmpga.cn",
+      "kind": null,
+      "identity": "ssxywc54xcv/page-eaee9668be8414a853796944"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1b2f126a0b3ae3bc6772fcf52775604e8142e88a169818d1dffffc4edc8b3978",
+    "sitemap.xml": "2d71c7c977a77c7957fabdc4e2b6365785f6f3192bcb41035aa0de2239016376",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e4f46715605a7daab71d81de7a8a1d9b1df3ab4f4b8c1215dacf14e065bbdd15",
+    "robots.txt": "9679aa5ade695b777785914e2af9ea058957a5f1dfee32f6db3b360b7db3063d",
+    "bb4ebfcfd7270d302b851a29ba18722a.txt": "2e820394820a5eb7cabf2036c50c86246b721bbd6503c0f732d905625847e744"
+  },
+  "revision": "9c8b839a5ac2dc463205d995e67e3fe2b5677749da09d1db7424a4ab282aaa9c"
+}
